@@ -17,7 +17,7 @@ import com.jayway.restassured.RestAssured;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 
 /**
- * @author swathip1
+ * @author swathi
  *
  */
 @RunWith(SpringJUnit4ClassRunner.class)   // 1
